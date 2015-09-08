@@ -84,13 +84,6 @@ h1{
 	color: white;
 	word-spacing: 8px;
 }
-#mission{
-	position: absolute;
-	top: 270px;
-	right: 150px;
-	color: white;
-	word-spacing: 6px;	
-}
 #slide1 img:first-child{
 	position:absolute;
 	top: 300px;
@@ -100,12 +93,21 @@ h1{
 #slide1 img:nth-child(2){
 	position:absolute;
 	top:208px;
-	left:118px;
+	left:114px;
 }
 #slide1 img:nth-child(3){
 	position:absolute;
 	top:394px;
-	left:234px;
+	left:230px;
+}
+#mission{
+	position: absolute;
+	top: 270px;
+	right: 126px;
+	color: white;
+	word-spacing: 6px;
+	font-family: arial;
+	font-size: 20px;	
 }
 /******************************
  SLIDE 2 
